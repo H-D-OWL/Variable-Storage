@@ -42,3 +42,7 @@ Target platform : Windows
   - Combines an array of Variable Storage structures into a single Variable Storage structure.
 
 ![Снимок 5](https://github.com/user-attachments/assets/f7c8feb2-c89d-4bcc-b377-4a289fe63bdb)
+
+* Example implementation:
+
+![Снимок 7](https://github.com/user-attachments/assets/79dad73e-24ff-4de0-9acd-c406ff732f82)
