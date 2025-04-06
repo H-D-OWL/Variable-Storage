@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Variable Storage",
+	"Description": "Adds a structure and a set of functions that allow you to write multiple pieces of data to a single structure, and then retrieve any written data from it.",
+	"Category": "Variable Storage",
+	"CreatedBy": "H.D.OWL ",
+	"CreatedByURL": "https://github.com/H-D-OWL",
+	"DocsURL": "https://github.com/H-D-OWL/Variable-Storage",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/H-D-OWL/Variable-Storage",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VariableStorage",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
