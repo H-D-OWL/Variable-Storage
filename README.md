@@ -9,7 +9,7 @@ Target version : UE5.0 ～ 5.5
 Target platform : Windows
 
 ## Warning
-  - Variable Storage can only contain these data types: **Bool, Byte, Int32, Int64, Float, Name, String, Text, Vector, Rotator, Transform, Linear Color.**
+  - Variable Storage can only contain these data types: **Bool, Byte, Int32, Int64, Float, Name, String, Text, Vector, Rotator, Transform, Soft Object, Soft Class, Linear Color, Timespan.**
   - **Data names cannot be repeated in Variable Storage.** When merging Variable Storage structures, data with the same name will replace each other.
 
 ## Content
@@ -46,3 +46,8 @@ Target platform : Windows
 * Example implementation:
 
 ![Снимок 7](https://github.com/user-attachments/assets/79dad73e-24ff-4de0-9acd-c406ff732f82)
+
+* Update history:
+  - 1.1:
+    - Fixed some bugs.
+    - The variable storage can now contain new data types: Soft Object, Soft Class, Timespan.
